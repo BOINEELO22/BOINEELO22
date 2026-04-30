@@ -1,6 +1,6 @@
 ## Hi, I'm Boineelo 👋
 
-Computer Science and Statistics student at North-West University, South Africa.
+Computer Science and Statistics student at the North-West University, South Africa.
 I'm interested in data science, data engineering, cloud computing, and building things that work.
 
 ## 🛠️ Languages & Tools
